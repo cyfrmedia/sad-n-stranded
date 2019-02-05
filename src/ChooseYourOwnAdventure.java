@@ -115,7 +115,7 @@ public class ChooseYourOwnAdventure
 				print("This is a big field... Maybe I can find something... You can either explore, or go back.");
 				if(cowAlive == true)
 				{
-					print("there is also a cow here.");
+					print("There is also a cow here.");
 				}
 
 				String action = input.nextLine();
